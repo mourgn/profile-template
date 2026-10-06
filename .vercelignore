@@ -1,0 +1,7 @@
+private
+node_modules
+test
+index.html
+README.md
+*.zip
+.env*

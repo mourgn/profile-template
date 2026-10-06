@@ -1,0 +1,14 @@
+{
+  "name":"Your name","handle":"@yourname","tagline":"In my own orbit",
+  "bio":"Creating things. Collecting moments.\nA few places you can find me.","location":"Somewhere on Earth","initials":"YN","avatar":"",
+  "corner":"a little corner of the internet","footnote":"Stay a little. Look around.","footer":"Your space. Your rules.",
+  "accent":"#ffffff","textColor":"#f5f7ff","backgroundColor":"#0c1020","background":"","backgroundMode":"aurora","overlay":20,
+  "surfaceStyle":"glass","glassOpacity":10,"glassBlur":28,"glassSaturation":160,"reflection":55,"borderOpacity":25,"borderWidth":1,"borderStyle":"solid","borderColor":"#ffffff","radius":32,"cardWidth":480,
+  "font":"sans","nameSize":36,"alignment":"center","avatarSize":86,"avatarRadius":30,"linkStyle":"glass","linkLayout":"stack",
+  "glow":true,"softGlow":true,"glowStrength":55,"motion":true,"float":true,"backgroundEffect":"none","weatherDensity":35,"cursor":"default","cursorImage":"","showLocation":true,
+  "snap":true,"gridSize":8,"widgetPositions":{},"showBio":true,"showLinks":true,"showAccounts":true,"spotifyProfile":"",
+  "showPlayer":true,"repeat":"off","shuffle":true,"volume":55,"introEnabled":true,"introTitle":"Welcome in","introSubtitle":"A little corner of the internet.","introButton":"Enter site","introBackground":"#0c1020","widgetScale":100,"profileWidth":480,"playerWidth":480,"profileHeight":0,"playerHeight":0,
+  "links":[{"title":"My latest project","subtitle":"Something I’ve been working on","url":"https://example.com","icon":"＋","enabled":true},{"title":"My playlist","subtitle":"The soundtrack lately","url":"https://open.spotify.com","icon":"♫","enabled":true}],
+  "accounts":[{"platform":"Instagram","url":"https://instagram.com","enabled":true},{"platform":"GitHub","url":"https://github.com","enabled":true},{"platform":"Discord","url":"https://discord.com","enabled":true}],
+  "embeds":[],"tracks":[]
+}
