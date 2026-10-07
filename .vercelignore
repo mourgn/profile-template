@@ -1,7 +1,7 @@
 private
 node_modules
 test
-index.html
+/index.html
 README.md
 *.zip
 .env*
